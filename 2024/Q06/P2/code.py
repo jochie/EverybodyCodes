@@ -13,7 +13,7 @@ def parse_options():
     Parser command line options
     """
     parser = argparse.ArgumentParser(
-        description='This program is used for one of the EverybodyCodes 2024 puzzles; Day 6, part 1'
+        description='This program is used for one of the EverybodyCodes 2024 puzzles; Day 6, part 2'
     )
     parser.add_argument('-d', '--debug',
                         help="Enable debug output",
